@@ -27,6 +27,7 @@
     - maprepri
   - people
     - yofel
+  - url: https://launchpad.net/~scribus/+archive/ubuntu/ppa
 -
   name: Debian Wheezy (old stable)
   tag:
