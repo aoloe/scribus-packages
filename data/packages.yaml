@@ -67,11 +67,13 @@
   - linux
   maintainer:
     - ftake
+  url: http://software.opensuse.org/download.html?project=home%3Aftake%3Ascribus%3Ahead&package=scribus
 - Fedora:
   tag:
   - linux
   maintainer:
     - luya
+  url: https://github.com/aoloe/scribus-packages/blob/master/data/packages.yaml
 - CentOS:
   tag:
   - linux
