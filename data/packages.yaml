@@ -1,0 +1,103 @@
+- Ubuntu 16.04:
+  version: 1.4.xxxx
+  tag:
+  - linux
+  - ubuntu
+  maintainer:
+    - maprepri
+  - package:
+    - scribus
+      - stability: stable
+    - scribus-ng
+      - stability: development
+    - scribus-doc
+- Ubuntu 14.04:
+  version: 1.4.xxxx
+  tag:
+  - linux
+  - ubuntu
+  maintainer:
+    - maprepri
+- Ubuntu PPA:
+  tag:
+  - linux
+  - ubuntu
+  - ppa
+  maintainer:
+    - maprepri
+  - people
+    - yofel
+-
+  name: Debian Wheezy (old stable)
+  tag:
+  - linux
+  - ubuntu
+  maintainer:
+    - maprepri
+- Debian Jessie (stable):
+  tag:
+  - linux
+  - ubuntu
+  maintainer:
+    - maprepri
+- Debian Stretch (testing)
+  tag:
+  - linux
+  - ubuntu
+  maintainer:
+    - maprepri
+- Debian Sid (unstable)
+  tag:
+  - linux
+  - ubuntu
+  maintainer:
+    - maprepri
+- Red Hat
+  tag:
+  - linux
+  maintainer:
+    - mrdocs
+- Suse
+  tag:
+  - linux
+  maintainer:
+    - mrdocs
+- OpenSUSE:
+  tag:
+  - linux
+  maintainer:
+    - ftake
+- Fedora:
+  tag:
+  - linux
+  maintainer:
+    - luya
+- CentOS:
+  tag:
+  - linux
+  maintainer:
+    - mrdocs
+      - status:to be confirmed
+- Windows:
+  tag:
+  - windows
+  maintainer:
+    - jghali    
+- Portable Apps:
+  tag:
+  - windows
+  maintainer:
+    - jghali    
+- Mac OSX:
+  tag:
+  - os x
+  maintainer:
+    - MrB   
+- OS/2 Warp 4:
+  tag:
+  - os 2
+  maintainer:
+    - Smedles   
+- eComStation     
+  maintainer:
+    - Smedles 
